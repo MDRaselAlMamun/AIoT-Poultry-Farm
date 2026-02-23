@@ -60,16 +60,16 @@ Tell Raspberry Pi Imager what combination of hardware and operating system you w
 
 > 1. In the **Device tab**, select your Raspberry Pi model **(Raspberry Pi 5)** from the list. Select Next.
 
-![Raspberry Pi 5 device](images/choose-device.png)
+![Raspberry Pi 5 device](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/choose-device.png)
 
 > 2. In the **OS tab**, choose from the available operating systems (**Raspberry Pi OS (64-bit)**). Select Next.
 
-![Raspberry Pi 5 os](images/choose-os.png)
+![Raspberry Pi 5 os](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/choose-os.png)
 
 > 3. In the **Storage tab**, select the storage device to write the image to. Select Next.
 
 
-![Raspberry Pi 5 stortage](images/choose-storage.png)
+![Raspberry Pi 5 stortage](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/choose-storage.png)
 
 > ⚠️ **Warning**
 >
@@ -96,25 +96,25 @@ Raspberry Pi Imager can preconfigure key settings **before first boot**.
 
 > 1. **Customisation → Hostname:** set a hostname (letters, numbers, hyphens only).
 
-![Raspberry Pi 5 hostname](images/os-customisation-hostname.png)
+![Raspberry Pi 5 hostname](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/os-customisation-hostname.png)
 
 > 2. **Customisation → Localisation:** choose your city/time zone and keyboard layout. 
 
-![Raspberry Pi 5 local](images/os-customisation-locale.png)
+![Raspberry Pi 5 local](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/os-customisation-locale.png)
 
 > 3. **Customisation → User:** create your username and password.  
 
-![Raspberry Pi 5 user](images/os-customisation-user.png)
+![Raspberry Pi 5 user](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/os-customisation-user.png)
 
 > 4. **Customisation → Wi-Fi:** enter SSID and password (skip if using Ethernet). 
 
-![Raspberry Pi 5 wifi](images/os-customisation-wifi-secure.png)
+![Raspberry Pi 5 wifi](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/os-customisation-wifi-secure.png)
 
 > 5. **Customisation → Remote Access (SSH):** enable SSH if you want remote login.
 >  
 > - **Use password authentication** (simple) or SSH keys (more secure). 
 
-![Raspberry Pi 5 ssh](images/os-customisation-ssh.png)
+![Raspberry Pi 5 ssh](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/os-customisation-ssh.png)
 
 > 6. Some operating systems now show the **Customisation > Raspberry Pi Connect tab**.
 >
@@ -122,18 +122,18 @@ Raspberry Pi Imager can preconfigure key settings **before first boot**.
 
 > **Toggle the Enable Raspberry Pi Connect** switch to the active position.
 
-![Raspberry Pi 5 connect](images/os-customisation-connect.png)
+![Raspberry Pi 5 connect](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/os-customisation-connect.png)
 
 > Select **Open Raspberry Pi Connect**. The Raspberry Pi Connect website opens in your default browser.
 
-![Raspberry Pi 5 new](images/new.png)
+![Raspberry Pi 5 new](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/new.png)
 
 1. On the page, click **Create one for free**.
 2. The registration form will open.
 
 > Fill in the Raspberry Pi ID form
 
-![Raspberry Pi 5 reg](images/reg-form.png)
+![Raspberry Pi 5 reg](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/reg-form.png)
 
 - Enter your details (email, password, and any other required information).
 - Double-check your email address before continuing.
@@ -146,7 +146,7 @@ Raspberry Pi Imager can preconfigure key settings **before first boot**.
    - If you don’t see it, check **Spam/Junk/Promotions**.
 4. Click the **confirmation/verification link** in the email.
 
-![Raspberry Pi 5 confirm](images/confirm.png)
+![Raspberry Pi 5 confirm](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/confirm.png)
 
 > Log in to your Raspberry Pi ID account
 
@@ -154,7 +154,7 @@ After confirming your email, return to this link and log in:
 
 - **Raspberry Pi ID Login:** https://id.raspberrypi.com/sign-in
 
-![Raspberry Pi 5 login](images/login.png)
+![Raspberry Pi 5 login](http://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/login.png)
 
 > Sign in to your **Raspberry Pi ID account** or, if you don’t yet have an account, sign up.
 
@@ -166,13 +166,13 @@ The auth key is a single-use, temporary token. The Raspberry Pi Connect website 
 
 - If you are a member of one or more organisations, select the organisation or account to associate the key with. Then select Create auth key and launch Raspberry Pi Imager.
 
-![Raspberry Pi 5 auth](images/connect-auth-key.png)
+![Raspberry Pi 5 auth](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/connect-auth-key.png)
 
 Your browser might ask you whether you want to allow the site to open Raspberry Pi Imager. Confirm that you want to open Raspberry Pi Imager.
 
 Raspberry Pi Imager opens at the Raspberry Pi Connect tab. This tab shows a message to confirm that Imager received the authentication token from the browser and a field containing the token. Select Next.
 
-![Raspberry Pi 5 auth](images/os-customisation-connect-token.png)
+![Raspberry Pi 5 auth](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/os-customisation-connect-token.png)
 
 ### Step 4: Write and Verify
 
@@ -180,23 +180,23 @@ After customisation, Imager shows a summary.
 
 > 1. Review your choices and select **Write**.   
 
-   ![Raspberry Pi 5 summary](images/summary.png)
+   ![Raspberry Pi 5 summary](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/summary.png)
 
 > 2. Confirm the warning prompt to erase and write.  
 
-   ![Raspberry Pi 5 confirm](images/are-you-sure.png)
+   ![Raspberry Pi 5 confirm](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/are-you-sure.png)
 
 > 3. Wait while Imager writes the image.  
 
-   ![Raspberry Pi 5 writing](images/writing.png)
+   ![Raspberry Pi 5 writing](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/writing.png)
 
 >4. Let Imager **Verify** (recommended).  
 
-   ![Raspberry Pi 5 verify](images/verify.png)
+   ![Raspberry Pi 5 verify](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/verify.png)
 
 > 5. When finished, select **Finish** and **safely eject** the microSD card.
 
-   ![Raspberry Pi 5 finished](images/finished.png)
+   ![Raspberry Pi 5 finished](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/1.%20Operating%20System%20(OS)%20Install/Images/finished.png)
 
 ## Next: First Boot (Quick Checklist)
 
