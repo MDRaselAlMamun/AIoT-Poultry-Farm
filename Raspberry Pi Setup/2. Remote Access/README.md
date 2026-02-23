@@ -24,7 +24,7 @@ This file explains two beginner-friendly ways to access **Raspberry Pi OS remote
 3. Sign in with your **Raspberry Pi ID**. [Open In **1. Operating System (OS) Install** Phase]
 4. You’ll see your linked devices.
 
-![Raspberry Pi Connect devices list](images/devices.png)
+![Raspberry Pi Connect devices list](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/2.%20Remote%20Access/Images/devices.png)
 
 ### Step 3 — Connect to your Raspberry Pi
 
@@ -35,11 +35,11 @@ This file explains two beginner-friendly ways to access **Raspberry Pi OS remote
 
 > If using **Remote shell**, you may briefly see a “waiting/connecting” message.
 
-![Raspberry Pi Connect remote shell waiting](images/waiting-for-remote-shell.png)
+![Raspberry Pi Connect remote shell waiting](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/2.%20Remote%20Access/Images/waiting-for-remote-shell.png)
 
 > After the Raspberry Pi finishes booting, you should arrive at the **Raspberry Pi OS desktop (Home screen)**.
 
-![Raspberry Pi Home](images/hero.png)
+![Raspberry Pi Home](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/2.%20Remote%20Access/Images/hero.png)
 
 ## Method 2 — Remote Desktop with RealVNC Viewer on Windows
 
@@ -65,7 +65,7 @@ This method uses **RealVNC Viewer on Windows** to control the **Raspberry Pi OS 
 3. Find your Raspberry Pi in the device list.
 4. Click **Connect via** → **Remote shell**.
 
-![Raspberry Pi Connect device list](images/remote-shell.png)
+![Raspberry Pi Connect device list](https://github.com/MDRaselAlMamun/AIoT-Poultry-Farm/blob/main/Raspberry%20Pi%20Setup/2.%20Remote%20Access/Images/remote-shell.png)
 
 > Use **Remote shell** here because we may switch to **X11**, which disables Connect **Screen sharing**.
 
