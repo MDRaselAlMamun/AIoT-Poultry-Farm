@@ -1,0 +1,24 @@
+{
+  "description": "Summer + semi_closed only synthetic poultry dataset",
+  "house_type": "semi_closed",
+  "season": "summer",
+  "main_variables": [
+    "temp",
+    "humidity",
+    "co2",
+    "nh3"
+  ],
+  "actuators": [
+    "heating_light",
+    "chilling_fan",
+    "exhaust_fan"
+  ],
+  "decision_modes": [
+    "HEAT",
+    "IDLE",
+    "VENTILATE_LIGHT",
+    "VENTILATE_STRONG",
+    "GAS_EMERGENCY"
+  ],
+  "step_minutes": 5
+}

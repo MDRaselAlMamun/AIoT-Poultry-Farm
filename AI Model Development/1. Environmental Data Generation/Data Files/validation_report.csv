@@ -1,0 +1,12 @@
+section,check,status,details
+RAW,Only summer present,PASS,{'summer'}
+RAW,Only semi_closed present,PASS,{'semi_closed'}
+RAW,No duplicate flock/timestamp rows,PASS,duplicates=0
+CONTROL,Mode-actuator consistency,PASS,inconsistent_rows=0
+CONTROL,Enough IDLE coverage,PASS,share=0.1612
+CONTROL,Enough HEAT coverage,PASS,share=0.0541
+CONTROL,Enough VENTILATE_LIGHT coverage,PASS,share=0.2465
+CONTROL,Enough VENTILATE_STRONG coverage,PASS,share=0.4978
+CONTROL,Emergency coverage present,PASS,share=0.0404
+COVERAGE,CO2 warning coverage,PASS,count=5514
+COVERAGE,NH3 warning coverage,PASS,count=24267
